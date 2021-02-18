@@ -8,6 +8,7 @@ var backgroundImg;
 
 function preload() {
     backgroundImg = loadImage("sprites/bg.png");
+    console.log("Hello");
 }
 
 function setup(){
